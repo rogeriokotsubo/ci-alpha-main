@@ -12,4 +12,4 @@
 5 - OBSERVAR O QUE ACONTECE COM JOBS
 
 6 - IDENTIFICAR ONDE ACONTECEU O ERRO
-  (ln 113 transfers_test.go  -> retirar o 'nill')
+  (ln 113 domain/transfers/transfers_test.go  -> retirar o 'nill')
