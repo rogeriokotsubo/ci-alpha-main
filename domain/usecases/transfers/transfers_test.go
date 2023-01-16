@@ -110,7 +110,7 @@ func TestShowTransfers(t *testing.T) {
 			},
 			accId:   uuid.New().String(),
 			wantErr: ErrorTransfersNoListed,
-			want:    []transfers.Transfer{nil},
+			want:    []transfers.Transfer{},
 		},
 	}
 
